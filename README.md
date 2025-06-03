@@ -18,4 +18,4 @@ To learn and compare Ridge and Lasso regularization techniques and see how tunin
 
 ---
 
-Made with 💜 by Kim Taehyung
+Made by Ayushi
