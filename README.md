@@ -7,13 +7,13 @@ This project demonstrates how to use **Ridge** and **Lasso** regression in Pytho
 - Hyperparameter tuning using `GridSearchCV`
 - Evaluation with `mean squared error` and `best_score_`
 
-## 🔧 Tools Used
+## Tools Used
 - Python
 - Jupyter Notebook
 - scikit-learn
 - pandas, numpy, matplotlib
 
-## 💡 Goal
+##  Goal
 To learn and compare Ridge and Lasso regularization techniques and see how tuning hyperparameters can improve model accuracy.
 
 ---
